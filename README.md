@@ -16,7 +16,7 @@ pages="268--276",
 
 Please download the data set through this link:
 
-Original image: https://drive.google.com/drive/folders/1jBPZBGxRLVBg7PQAWZOvPdNoJhhGm3DW?usp=sharing
+Original image: https://drive.google.com/drive/folders/1yq0McU_NKbIo8kgptnSVmvvstlxnRc5F?usp=sharing
 
 Or: https://www.dropbox.com/sh/3059psz0w45shyj/AAAFRGJdCOfl25LmtiuzVa7sa?dl=0
 
