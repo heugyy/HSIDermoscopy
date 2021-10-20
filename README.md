@@ -3,6 +3,7 @@ A Hyperspectral Dermoscopy Dataset for Melanoma Detection
 
 If you use the dataset please cite the paper:
 Yanyang Gu, Yi-Ping Partridge, Jun Zhou: A Hyperspectral Dermoscopy Dataset for Melanoma Detection
+
 @InProceedings{Yanyng2018HSIData,
 author="Gu, Yanyang and Partridge, Yi-Ping and Zhou, Jun",
 title="A Hyperspectral Dermoscopy Dataset for Melanoma Detection",
