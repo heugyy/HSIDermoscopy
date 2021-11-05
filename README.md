@@ -1,5 +1,5 @@
 # HSIDermoscopy
-A Hyperspectral Dermoscopy Dataset for Melanoma Detection
+This repo is to provide datasets that are described in: A Hyperspectral Dermoscopy Dataset for Melanoma Detection. The codes that are used for Raspberry PI based imaging device is provided in [RPI-GUI-for-Ximea-Camera](https://github.com/heugyy/RPI-GUI-for-Ximea-Camera).
 
 If you use the dataset please cite the paper:
 Yanyang Gu, Yi-Ping Partridge, Jun Zhou: A Hyperspectral Dermoscopy Dataset for Melanoma Detection
