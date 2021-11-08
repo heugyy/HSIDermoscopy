@@ -8,9 +8,7 @@ Yanyang Gu, Yi-Ping Partridge, Jun Zhou: [A Hyperspectral Dermoscopy Dataset for
 **Bibtex**
 
 @InProceedings{Yanyng2018HSIData,
-
 author="Gu, Yanyang and Partridge, Yi-Ping and Zhou, Jun",
-
 title="A Hyperspectral Dermoscopy Dataset for Melanoma Detection",
 
 booktitle="OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis",
