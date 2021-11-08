@@ -6,14 +6,23 @@ If you use the dataset please cite the paper:
 Yanyang Gu, Yi-Ping Partridge, Jun Zhou: [A Hyperspectral Dermoscopy Dataset for Melanoma Detection](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01201-4_29.pdf)
 
 **Bibtex**
+
 @InProceedings{Yanyng2018HSIData,
+
 author="Gu, Yanyang and Partridge, Yi-Ping and Zhou, Jun",
+
 title="A Hyperspectral Dermoscopy Dataset for Melanoma Detection",
+
 booktitle="OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis",
+
 year="2018",
+
 publisher="Springer International Publishing",
+
 address="Cham",
+
 pages="268--276",
+
 }
 
 Please download the data set through this link:
